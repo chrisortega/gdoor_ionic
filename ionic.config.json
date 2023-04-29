@@ -1,0 +1,7 @@
+{
+  "name": "gdoorc",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
